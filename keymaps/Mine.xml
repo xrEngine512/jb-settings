@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy" parent="Default for XWin">
+<keymap version="1" name="Mine" parent="Default for XWin">
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
