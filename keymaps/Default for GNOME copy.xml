@@ -1,0 +1,13 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="Console.TableResult.NavigateAction" />
+  <action id="EditSource" />
+  <action id="ToggleBookmark" />
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="Vcs.EditSource" />
+  <action id="XDebugger.JumpToSource" />
+</keymap>
