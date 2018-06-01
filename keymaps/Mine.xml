@@ -14,6 +14,9 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl numpad4" />
   </action>
+  <action id="Build">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
   <action id="EditSource" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
