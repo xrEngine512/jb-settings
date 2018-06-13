@@ -16,11 +16,11 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.py</mask>
     <mask>*.yaml</mask>
     <mask>*.json</mask>
     <mask>*.cpp</mask>
     <mask>*.conf</mask>
     <mask>*.hpp</mask>
+    <mask>*.py</mask>
   </component>
 </application>
