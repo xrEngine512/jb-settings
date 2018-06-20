@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.cpp" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,9 +15,9 @@
     <mask>*.mxml</mask>
     <mask>*.yaml</mask>
     <mask>*.json</mask>
-    <mask>*.cpp</mask>
-    <mask>*.hpp</mask>
     <mask>*.conf</mask>
     <mask>*.py</mask>
+    <mask>*.hpp</mask>
+    <mask>*.cpp</mask>
   </component>
 </application>
