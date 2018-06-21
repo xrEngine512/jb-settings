@@ -45,6 +45,7 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
+  <action id="NextTemplateParameter" />
   <action id="OverrideMethods" />
   <action id="ParameterInfo" />
   <action id="QuickActionPopup" />
