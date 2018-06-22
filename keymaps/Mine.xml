@@ -45,9 +45,15 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="ctrl numpad2" />
+  </action>
   <action id="NextTemplateParameter" />
   <action id="OverrideMethods" />
   <action id="ParameterInfo" />
+  <action id="PreviousDiff">
+    <keyboard-shortcut first-keystroke="ctrl numpad8" />
+  </action>
   <action id="QuickActionPopup" />
   <action id="QuickChangeScheme" />
   <action id="ToggleBookmark" />
