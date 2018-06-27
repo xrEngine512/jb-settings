@@ -21,8 +21,8 @@
     <mask>*.yaml</mask>
     <mask>*.conf</mask>
     <mask>*.py</mask>
-    <mask>*.cpp</mask>
     <mask>*.hpp</mask>
     <mask>*.json</mask>
+    <mask>*.cpp</mask>
   </component>
 </application>
