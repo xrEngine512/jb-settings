@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping ext="protobuf" type="PLAIN_TEXT" />
       <mapping ext="protobuf" type="PROTO" />
     </extensionMap>
   </component>
