@@ -888,5 +888,33 @@
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 3.7 (taxi-py3-2) interpreter library">
+      <CLASSES>
+        <root url="file:///usr/lib/yandex/taxi-py3-2/lib/python3.7" />
+        <root url="file:///usr/lib/yandex/taxi-py3-2/lib/python3.7/lib-dynload" />
+        <root url="file:///usr/lib/python3.7" />
+        <root url="file:///usr/lib/yandex/taxi-py3-2/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/CLion2020.1/python_stubs/258760649" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/lib/yandex/taxi-py3-2/lib/python3.7" />
+        <root url="file:///usr/lib/yandex/taxi-py3-2/lib/python3.7/lib-dynload" />
+        <root url="file:///usr/lib/python3.7" />
+        <root url="file:///usr/lib/yandex/taxi-py3-2/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/CLion2020.1/python_stubs/258760649" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
   </component>
 </application>
