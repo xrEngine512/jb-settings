@@ -22,11 +22,11 @@
     <mask>*.json</mask>
     <mask>*.cpp</mask>
     <mask>*.cpp,*.hpp</mask>
-    <mask>*.hpp</mask>
     <mask>*configs*</mask>
     <mask>*.py</mask>
     <mask>*.yaml</mask>
     <mask>config.yaml</mask>
     <mask>plugin_generator.py</mask>
+    <mask>*.hpp</mask>
   </component>
 </application>
